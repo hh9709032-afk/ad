@@ -2,5 +2,5 @@
   "عنوان": "پیج طرفداران کریس در روبیکا",
   "کپشن": "برای ورود به پیج کلیک کنید",
   "تصویر": "https://s6.uupload.ir/files/450x300_b70.jpeg",
-  "لینک": "https://rubika.ir/cr7texsa"
+  "لینک": "https://rubika.ir/hasan_ahoizaren"
 }
