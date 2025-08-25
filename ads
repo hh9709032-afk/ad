@@ -1,6 +1,6 @@
 {
   "عنوان": "پیج طرفداران کارمکنه کریس در روبیکا",
   "کپشن": "برای ورود به پیج کلیک کنید",
-  "تصویر": "https://s6.uupload.ir/files/picsart_25-08-25_08-30-56-412_11t9.jpg",
+  "تصویر": "https://s6.uupload.ir/files/picsart_25-08-25_09-32-44-650_orhm.png",
   "لینک": "https://rubika.ir/Alone_Edit"
 }
